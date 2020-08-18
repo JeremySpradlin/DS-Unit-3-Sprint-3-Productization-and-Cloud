@@ -70,3 +70,5 @@ Basilica APIs via Python), then:
 - Try using some of the other embeddings Basilica can return (images, general
   text) - you can just experiment with it, or see if you can figure out a way to
   incorporate it into the application (e.g. Tweeted photos, etc.)
+  
+  # Today's Assignment:  https://github.com/JeremySpradlin/twitoff
