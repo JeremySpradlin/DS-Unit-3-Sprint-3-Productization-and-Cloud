@@ -58,3 +58,5 @@ as we can in the application.
 - Fit a multinomial classification model (predict between >2 users) - note this
   may be more of a UX challenge (how should the client specify the users) than a
   data science challenge
+  
+  # Today's assignment: https://github.com/JeremySpradlin/twitoff
