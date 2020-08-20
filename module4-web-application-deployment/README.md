@@ -74,3 +74,6 @@ We'll deploy the app! We'll step through all of the following:
   - Again: Heroku first, and then explore alternatives
 - Add some basic permissions or possibly even an account system, so not everyone
   can just add users, pull Tweets, or reset data
+  
+# Assignment Link: https://github.com/JeremySpradlin/twitoff
+# Heroku App: https://dashboard.heroku.com/apps/twitoff-erbun
